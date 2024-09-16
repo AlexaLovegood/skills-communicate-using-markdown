@@ -3,7 +3,9 @@
 ```HTML
 <h1 id="header1">This is a header</h1>
 ```
-
+- [x] What should I do
+- [x] What shouldn't I do
+- [ ] What could I do
 
 
 
